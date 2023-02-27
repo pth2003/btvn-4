@@ -1,0 +1,41 @@
+.color-red{
+    color: red;
+}
+#color-green{
+    color: green;
+}
+.background-color{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+}
+.background-img {
+    height: 200px;
+    width: 100%;
+    background-image: url(/bai_4/image/front-end.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.box-green{
+    color: #fff;
+    background-color: green;
+    border: 5px #000 solid;
+    padding: 30px;
+    text-align: center;
+}
+.box-red {
+    color: #fff;
+    background-color: red;
+    margin-top: 20px;
+    border: 10px dashed #ccc;
+    padding: 30px;
+    background-clip: padding-box;
+    text-align: right;
+}
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
